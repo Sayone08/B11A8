@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/tPL9zt2x/law1.jpg",
+      "name": "Rezaul Karim",
+      "speciality": "Criminal Law Expert",
+      "experience": "15 years+ experience",
+      "licenseNo": "BD 1245-1254",
+      "availability": ["Sunday", "Monday", "Wednesday"],
+      "consultationFee": 15000
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/m5gKRGkK/law2.jpg",
+      "name": "Afsana Rahman",
+      "speciality": "Family Law Specialist",
+      "experience": "10 years+ experience",
+      "licenseNo": "BD 9876-5432",
+      "availability": ["Tuesday", "Thursday"],
+      "consultationFee": 9000
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/Jjh3NZw5/law3.jpg",
+      "name": "Sharmin Akter",
+      "speciality": "Corporate Law Advisor",
+      "experience": "12 years+ experience",
+      "licenseNo": "BD 1122-3344",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "consultationFee": 10000
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/mrRdKGhF/law4.jpg",
+      "name": "Taslima Khatun",
+      "speciality": "Property Law Expert",
+      "experience": "9 years+ experience",
+      "licenseNo": "BD 5566-7788",
+      "availability": ["Sunday", "Thursday"],
+      "consultationFee": 16500
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/qF0T2h93/law5.jpg",
+      "name": "Jahid Hasan",
+      "speciality": "Immigration Law Specialist",
+      "experience": "11 years+ experience",
+      "licenseNo": "BD 9988-7766",
+      "availability": ["Tuesday", "Friday"],
+      "consultationFee": 17500
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/chqpL4mg/law6.jpg",
+      "name": "Rafiq Chowdhury",
+      "speciality": "Tax Law Consultant",
+      "experience": "8 years+ experience",
+      "licenseNo": "BD 2233-2211",
+      "availability": ["Wednesday", "Saturday"],
+      "consultationFee": 9000
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/rKbQYLBd/law7.jpg",
+      "name": "Tanvir Alam",
+      "speciality": "Employment Law Expert",
+      "experience": "13 years+ experience",
+      "licenseNo": "BD 7744-1122",
+      "availability": ["Monday", "Thursday"],
+      "consultationFee": 7800
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/Rk9bFtqP/law8.jpg",
+      "name": "Nazmun Nahar",
+      "speciality": "Banking & Finance Law",
+      "experience": "14 years+ experience",
+      "licenseNo": "BD 2211-3344",
+      "availability": ["Sunday", "Tuesday", "Friday"],
+      "consultationFee": 12000
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/MDWWHKfb/law9.jpg",
+      "name": "Mitu Sultana",
+      "speciality": "Civil Litigation Specialist",
+      "experience": "7 years+ experience",
+      "licenseNo": "BD 3344-5566",
+      "availability": ["Monday", "Wednesday", "Saturday"],
+      "consultationFee": 10900
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/G45zCZ9c/law10.jpg",
+      "name": "Sabina Yasmin",
+      "speciality": "Environmental Law Advocate",
+      "experience": "6 years+ experience",
+      "licenseNo": "BD 6677-8899",
+      "availability": ["Tuesday", "Thursday"],
+      "consultationFee": 17700
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/N6ds7SP0/law11.jpg",
+      "name": "Fahim Ahmed",
+      "speciality": "Human Rights Lawyer",
+      "experience": "16 years+ experience",
+      "licenseNo": "BD 7788-9900",
+      "availability": ["Sunday", "Wednesday", "Friday"],
+      "consultationFee": 10000
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/S4xryHMS/law12.jpg",
+      "name": "Hasibul Islam",
+      "speciality": "Constitutional Law Expert",
+      "experience": "18 years+ experience",
+      "licenseNo": "BD 3344-6688",
+      "availability": ["Monday", "Thursday", "Saturday"],
+      "consultationFee": 11500
+    }
+  ]
+  
